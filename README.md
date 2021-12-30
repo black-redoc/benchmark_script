@@ -33,3 +33,11 @@ Set the VERBOSE constant to 0 if you dont want noise during the requests executi
 ```python
 VERBOSE = 1
 ```
+
+<em>
+The run the app
+</em>
+
+```bash
+python ./app.py
+```
